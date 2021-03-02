@@ -28,4 +28,4 @@
         wait_timeout        : 600
         command             : "replicate"
   roles:
-     - { role: ansible-aws-rds }
+     - ansible-aws-rds
